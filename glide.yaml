@@ -1,0 +1,5 @@
+package: github.com/edenecke/go-purge-fastly
+import:
+- package: github.com/sethvargo/go-fastly
+- package: github.com/spf13/cobra
+- package: github.com/spf13/viper
